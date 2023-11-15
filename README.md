@@ -13,6 +13,7 @@
  - https://www.youtube.com/watch?v=h1BYMDvGUng
  - https://docs.google.com/presentation/d/1lAzPF558FNvFuTWgitYZrNKSo9SuIxvW-rn7IjTmlhs/edit
  - https://osf.io/4pd9n/
+ - https://www.productive-r-workflow.com/
  - 
 **Quarto** 
 Quarto is a multi-language, [next-generation](https://quarto.org/docs/faq/rmarkdown.html) version of R Markdown from Posit and includes dozens of new features and capabilities while at the same being able to render most existing Rmd files without modification.
